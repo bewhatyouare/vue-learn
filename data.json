@@ -1,0 +1,321 @@
+{
+  "retcode":0,
+  "list":[
+    {
+      "pid":100,
+      "name": "便民生活",
+      "childList":[
+        {
+          "id": 1001,
+          "name": "充值中心",
+          "picUrl": "icon-zhuanzhang"
+        },
+        {
+          "id": 1002,
+          "name": "信用卡还款",
+          "picUrl": "icon-huankuan"
+        },
+        {
+          "id": 1003,
+          "name": "生活缴费",
+          "picUrl": "icon-shuidianmei"
+        },
+        {
+          "id": 1004,
+          "name": "城市服务",
+          "picUrl": "icon-chengshifuwu"
+        },
+        {
+          "id": 1005,
+          "name": "生活号",
+          "picUrl": "icon-weixiu"
+        },
+        {
+          "id": 1006,
+          "name": "我的客服",
+          "picUrl": "icon-weixiu"
+        },
+        {
+          "id": 1007,
+          "name": "我的快递",
+          "picUrl": "icon-kuaidi"
+        },
+        {
+          "id": 1008,
+          "name": "医疗健康",
+          "picUrl": "icon-yiliao"
+        },
+        {
+          "id": 1009,
+          "name": "记账本",
+          "picUrl": "icon-jizhang"
+        },
+        {
+          "id": 10010,
+          "name": "发票管理",
+          "picUrl": "icon-fukuanma"
+        },
+        {
+          "id": 10011,
+          "name": "蚂蚁宝卡",
+          "picUrl": "icon-huankuan"
+        },
+        {
+          "id": 10012,
+          "name": "车主服务",
+          "picUrl": "icon-qiche"
+        },
+        {
+          "id": 10013,
+          "name": "天天有料",
+          "picUrl": "icon-yule"
+        },
+        {
+          "id": 10014,
+          "name": "蚂蚁微客",
+          "picUrl": "icon-shejiao"
+        },
+        {
+          "id": 10015,
+          "name": "共享单车",
+          "picUrl": "icon-OFO"
+        },
+        {
+          "id": 10016,
+          "name": "体育服务",
+          "picUrl": "icon-aliyouxi"
+        },
+        {
+          "id": 10017,
+          "name": "智能设备",
+          "picUrl": "icon-xuexi"
+        }
+      ]
+    },
+    {
+      "pid":200,
+      "name": "财富管理",
+      "childList":[
+        {
+          "id": 2001,
+          "name": "余额宝",
+          "picUrl": "icon-icon"
+        },
+        {
+          "id": 2002,
+          "name": "花呗",
+          "picUrl": "icon-gongzi"
+        },
+        {
+          "id": 2003,
+          "name": "芝麻信用",
+          "picUrl": "icon-logo"
+        },
+        {
+          "id": 2004,
+          "name": "蚂蚁借呗",
+          "picUrl": "icon-suishendai"
+        },
+        {
+          "id": 2005,
+          "name": "股票",
+          "picUrl": "icon-gupiao"
+        },
+        {
+          "id": 2006,
+          "name": "保险服务",
+          "picUrl": "icon-wodebaozhang"
+        },
+        {
+          "id": 2007,
+          "name": "汇率换算",
+          "picUrl": "icon-huilvhuansuan"
+        },
+        {
+          "id": 2008,
+          "name": "理财小工具",
+          "picUrl": "icon-licaishouyi"
+        }
+      ]
+    },
+    {
+      "pid":300,
+      "name": "资金往来",
+      "childList":[
+        {
+          "id": 3001,
+          "name": "转账",
+          "picUrl": "icon-zhuanzhang"
+        },
+        {
+          "id": 3002,
+          "name": "红包",
+          "picUrl": "icon-gongzi"
+        },
+        {
+          "id": 3003,
+          "name": "AA收款",
+          "picUrl": "icon-aa"
+        },
+        {
+          "id": 3004,
+          "name": "亲密付",
+          "picUrl": "icon-qinmifu"
+        },
+        {
+          "id": 3005,
+          "name": "上银汇款",
+          "picUrl": "icon-guojihuikuan"
+        },
+        {
+          "id": 3006,
+          "name": "话费卡转让",
+          "picUrl": "icon-huafeiqiazhuanrang"
+        }
+      ]
+    },
+    {
+      "pid":400,
+      "name": "购物娱乐",
+      "childList":[
+        {
+          "id": 4001,
+          "name": "游戏中心",
+          "picUrl": "icon-youxichongzhi"
+        },
+        {
+          "id": 4002,
+          "name": "蚂蚁庄园",
+          "picUrl": "icon-aliyouxi"
+        },
+        {
+          "id": 4003,
+          "name": "出境",
+          "picUrl": "icon-jipiao"
+        },
+        {
+          "id": 4004,
+          "name": "彩票",
+          "picUrl": "icon-caipiao1"
+        },
+        {
+          "id": 4005,
+          "name": "人脸识别",
+          "picUrl": "icon-saoyisao"
+        },
+        {
+          "id": 4006,
+          "name": "奖励金",
+          "picUrl": "icon-gongzi"
+        }
+      ]
+    },
+    {
+      "pid":500,
+      "name": "教育公益",
+      "childList":[
+        {
+          "id": 5001,
+          "name": "大学生活",
+          "picUrl": "icon-xiaoyuanyiqiatong"
+        },
+        {
+          "id": 5002,
+          "name": "爱心捐赠",
+          "picUrl": "icon-aixinjuanzeng"
+        },
+        {
+          "id": 5003,
+          "name": "蚂蚁森林",
+          "picUrl": "icon-chengshifuwu"
+        },
+        {
+          "id": 5004,
+          "name": "中小学",
+          "picUrl": "icon-shejiao"
+        },
+        {
+          "id": 5005,
+          "name": "运动",
+          "picUrl": "icon-yundong"
+        }
+      ]
+    },
+    {
+      "pid":600,
+      "name": "第三方服务",
+      "childList":[
+        {
+          "id": 6001,
+          "name": "电影票",
+          "picUrl": "icon-gongzi"
+        },
+        {
+          "id": 6002,
+          "name": "滴滴出行",
+          "picUrl": "icon-didichuhang"
+        },
+        {
+          "id": 6003,
+          "name": "饿了么外卖",
+          "picUrl": "icon-diandian"
+        },
+        {
+          "id": 6004,
+          "name": "天猫",
+          "picUrl": "icon-tianmaobao"
+        },
+        {
+          "id": 6005,
+          "name": "淘宝",
+          "picUrl": "icon-taobao"
+        },
+        {
+          "id": 6006,
+          "name": "火车票机票",
+          "picUrl": "icon-jipiao"
+        },
+        {
+          "id": 6007,
+          "name": "飞猪旅行",
+          "picUrl": "icon-lvxing"
+        },
+        {
+          "id": 6008,
+          "name": "爱彼迎民宿",
+          "picUrl": "icon-zhufang"
+        },
+        {
+          "id": 6009,
+          "name": "优酷",
+          "picUrl": "icon-youku"
+        },
+        {
+          "id": 60010,
+          "name": "租房",
+          "picUrl": "icon-zhufang"
+        },
+        {
+          "id": 60011,
+          "name": "来分期",
+          "picUrl": "icon-zhaocaibao"
+        },
+        {
+          "id": 60012,
+          "name": "ofo小黄车",
+          "picUrl": "icon-OFO"
+        },
+        {
+          "id": 60013,
+          "name": "大麦",
+          "picUrl": "icon-damailogo"
+        },
+        {
+          "id": 60014,
+          "name": "Apple专区",
+          "picUrl": "icon-damailogo"
+        }
+      ]
+    }
+  ]
+}
