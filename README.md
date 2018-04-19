@@ -1,6 +1,6 @@
-# zhifubao
+# vue learn
 
-> 模拟支付宝的应用管理
+> vue学习（模拟支付宝的应用管理）
 
 ## Build Setup
 
