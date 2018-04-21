@@ -2,7 +2,7 @@
   <div id="app">
     <div class="top-wrap" ref="topWrap" style="opacity: 1">
       <div class="my-title">
-        <h1>我的应用</h1>
+        <h1>我的应用<span class="fsmall">(按住拖动调整排序)</span></h1>
       </div>
       <div class="myapp-wrap" ref="topList" :style="getTopStyle">
         <drag-list @select="clickItem" ref="dragDom"
@@ -304,6 +304,9 @@ export default {
     padding-left: 15px
     position: relative
     background-color: #fff
+    .fsmall
+      font-size: 12px
+      color: #333
     &.blue:after
       content: ''
       position: absolute

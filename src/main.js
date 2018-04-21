@@ -18,6 +18,7 @@ function getUlHeight(list) {
   if (len > 4) {
     h = liHeight * Math.ceil(len / 4)
   }
+  console.info(h, len, liHeight)
   return h
 }
 
@@ -49,6 +50,9 @@ const store = new Vuex.Store({
     },
     addOrRemoveItem(state, item) {
       let list = state.myDataList
+      let eidx = list.findIndex((item) => {
+        return item.id === '999999'
+      })
       // 删除
       if (item.flag === 'icon-offline_fill') {
         item.flag = 'icon-addition_fill'
@@ -56,10 +60,16 @@ const store = new Vuex.Store({
           return item.id === info.id
         })
         list.splice(idx, 1)
+        if (eidx === -1 && list.length < 11) {
+          list.push({'id': '999999', 'name': '', 'fixed': true})
+        }
       } else if (item.flag === 'icon-addition_fill') {
         // 添加
         item.flag = 'icon-offline_fill'
         list.unshift(item)
+        if (list.length === 12) {
+          list.splice(-1, 1)
+        }
       }
       // 更新到localstorage
       updToLocal(list)

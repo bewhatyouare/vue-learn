@@ -27,9 +27,6 @@ export default {
     }
   },
   methods: {
-    getKey(id) {
-      return (+(new Date())) + '_' + id + Math.random()
-    },
     // 可用于动态切换背景图片，暂时不用
     bgImage(url) {
       if (url) {
